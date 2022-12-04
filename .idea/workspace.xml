@@ -5,10 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06f6c1eb-7911-4a2a-9592-2e8cef6d95d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeeksForGeeks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/DistinctAndSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/DistinctAndSets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/Filtering.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/Filtering.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/GettingStarted.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/GettingStarted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/GroupingData.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/GroupingData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/MinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/MinMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/Sorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/StatisticsWithStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/StatisticsWithStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/TransformationsMapAndReduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/TransformationsMapAndReduce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/TransformationsWithFlatMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/TransformationsWithFlatMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/UnderstandingStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/UnderstandingStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/LargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/LargestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/LeftRotateArrayByOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/LeftRotateArrayByOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/MoveZeroesToEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/MoveZeroesToEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/SecondLargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/SecondLargestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/SortedArrayOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/SortedArrayOrNot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,10 +41,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -50,18 +67,27 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;last_directory_selection&quot;: &quot;C:/Users/prave/OneDrive/Documents/GeeksForGeeks/src/main/java/org&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/prave/OneDrive/Documents/leetcode practice&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/prave/OneDrive/Documents/GeeksForGeeks&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
   <component name="RunManager" selected="Application.org.geeksforgeeks.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+    <configuration name="EmployeeTestt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmployeeTestt" />
+      <module name="GeeksForGeeks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practicce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.geeksforgeeks.arrays.easy.Practicce" />
       <module name="GeeksForGeeks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.geeksforgeeks.arrays.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TernaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.geeksforgeeks.TernaryOperator" />
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.geeksforgeeks.arrays.easy.Practice" />
       <module name="GeeksForGeeks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.geeksforgeeks.*" />
+          <option name="PATTERN" value="org.geeksforgeeks.arrays.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,6 +117,22 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest.incrementSalBy1000" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GeeksForGeeks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.stackify.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.stackify" />
+      <option name="MAIN_CLASS_NAME" value="org.stackify.EmployeeTest" />
+      <option name="METHOD_NAME" value="incrementSalBy1000" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -139,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TernaryOperator" />
         <item itemvalue="Application.org.geeksforgeeks.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.TernaryOperator" />
-        <item itemvalue="Application.org.geeksforgeeks.Main" />
+        <item itemvalue="Application.Practicce" />
+        <item itemvalue="Application.Practice" />
+        <item itemvalue="JUnit.EmployeeTest.incrementSalBy1000" />
+        <item itemvalue="Application.EmployeeTestt" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +218,67 @@
           <properties class="org.geeksforgeeks.NotValidBalance" package="org.geeksforgeeks" />
           <option name="timeStamp" value="13" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.jdks/openjdk-18.0.1.1/lib/src.zip!/java.base/java/util/Arrays.java</url>
+          <line>3060</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/InsertAndUpdateArrays.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/InsertAndUpdateArrays.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/LargestElement.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/SecondLargestElement.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/LeftRotateArrayByOne.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/LeftRotateArrayByDPlaces.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/MoveZeroesToEnd.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/LeftRotateArrayByDPlaces.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/RemoveDuplicates.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/findImmediateSmallerThanX.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GeeksForGeeks$org_geeksforgeeks_Main.ic" NAME="org.geeksforgeeks.Main Coverage Results" MODIFIED="1670000104333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.geeksforgeeks.*</FILTER>
+    </SUITE>
   </component>
 </project>
