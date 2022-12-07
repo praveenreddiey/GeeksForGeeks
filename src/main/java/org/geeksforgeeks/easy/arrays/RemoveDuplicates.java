@@ -1,4 +1,4 @@
-package org.geeksforgeeks.arrays.easy;
+package org.geeksforgeeks.easy.arrays;
 
 public class RemoveDuplicates {
     //10,20,20,30,30,30,30

@@ -1,4 +1,4 @@
-package org.geeksforgeeks.arrays.easy;
+package org.geeksforgeeks.easy.arrays;
 
 import org.w3c.dom.ls.LSOutput;
 

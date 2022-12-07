@@ -1,4 +1,4 @@
-package org.geeksforgeeks.arrays.easy;
+package org.geeksforgeeks.easy.arrays;
 
 public class MoveZeroesToEnd {
     //[8,5,0,10,0,20]

@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06f6c1eb-7911-4a2a-9592-2e8cef6d95d8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/SortedArrayOrNot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-streams" beforeDir="false" afterPath="$PROJECT_DIR$/java-streams" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/DistinctAndSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/DistinctAndSets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/Filtering.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/Filtering.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/GettingStarted.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/GettingStarted.java" afterDir="false" />
@@ -16,15 +19,19 @@
       <change beforePath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/TransformationsMapAndReduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/TransformationsMapAndReduce.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/TransformationsWithFlatMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/TransformationsWithFlatMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/UnderstandingStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/UnderstandingStreams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/LargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/LargestElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/LeftRotateArrayByOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/LeftRotateArrayByOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/MoveZeroesToEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/MoveZeroesToEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/RemoveDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/ReverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/SecondLargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/SecondLargestElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/SortedArrayOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/SortedArrayOrNot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/InsertAndUpdateArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/InsertAndUpdateArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/LargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/LargestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/LeftRotateArrayByDPlaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/LeftRotateArrayByDPlaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/LeftRotateArrayByOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/LeftRotateArrayByOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/MoveZeroesToEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/MoveZeroesToEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/SecondLargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/SecondLargestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/SortedArrayOrNot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/findImmediateSmallerThanX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/findImmediateSmallerThanX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/geeksforgeeks/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/geeksforgeeks/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/geeksforgeeks/arrays/easy/SortedArrayOrNot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/geeksforgeeks/arrays/easy/SortedArrayOrNot.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +81,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.org.geeksforgeeks.Main">
+  <component name="RunManager" selected="Application.Practice">
     <configuration name="EmployeeTestt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EmployeeTestt" />
       <module name="GeeksForGeeks" />
@@ -181,9 +188,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practice" />
         <item itemvalue="Application.org.geeksforgeeks.Main" />
         <item itemvalue="Application.Practicce" />
-        <item itemvalue="Application.Practice" />
         <item itemvalue="JUnit.EmployeeTest.incrementSalBy1000" />
         <item itemvalue="Application.EmployeeTestt" />
       </list>
@@ -224,54 +231,59 @@
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/InsertAndUpdateArrays.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/InsertAndUpdateArrays.java</url>
           <line>22</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/InsertAndUpdateArrays.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/InsertAndUpdateArrays.java</url>
           <line>10</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/LargestElement.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/LargestElement.java</url>
           <line>13</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/SecondLargestElement.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/SecondLargestElement.java</url>
           <line>38</line>
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/LeftRotateArrayByOne.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/LeftRotateArrayByOne.java</url>
           <line>6</line>
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/LeftRotateArrayByDPlaces.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/LeftRotateArrayByDPlaces.java</url>
           <line>8</line>
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/MoveZeroesToEnd.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/MoveZeroesToEnd.java</url>
           <line>5</line>
           <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/LeftRotateArrayByDPlaces.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/LeftRotateArrayByDPlaces.java</url>
           <line>21</line>
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/RemoveDuplicates.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/RemoveDuplicates.java</url>
           <line>5</line>
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/findImmediateSmallerThanX.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/findImmediateSmallerThanX.java</url>
           <line>6</line>
           <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/Practice.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="65" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

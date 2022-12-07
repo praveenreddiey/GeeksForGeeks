@@ -1,4 +1,4 @@
-package org.geeksforgeeks.arrays.easy;
+package org.geeksforgeeks.easy.arrays;
 
 public class LeftRotateArrayByDPlaces {
     public static int[] leftRotateArrayByDPlaces(int[] nums, int n, int places) {

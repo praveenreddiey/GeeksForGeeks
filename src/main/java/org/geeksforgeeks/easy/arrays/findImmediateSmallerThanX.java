@@ -1,4 +1,4 @@
-package org.geeksforgeeks.arrays.easy;
+package org.geeksforgeeks.easy.arrays;
 
 public class findImmediateSmallerThanX {
     static int element =-1;
