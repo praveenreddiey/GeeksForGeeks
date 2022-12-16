@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06f6c1eb-7911-4a2a-9592-2e8cef6d95d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/SortedArrayOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/recursion/CountOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/recursion/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/recursion/Fibbannocci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/recursion/GenerateSubsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/recursion/Nto1Digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/recursion/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/recursion/RopeCutting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/recursion/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/recursion/SumOfN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/recursion/TowerOfHanoi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-streams" beforeDir="false" afterPath="$PROJECT_DIR$/java-streams" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/DistinctAndSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/DistinctAndSets.java" afterDir="false" />
@@ -20,18 +28,18 @@
       <change beforePath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/TransformationsWithFlatMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/TransformationsWithFlatMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/UnderstandingStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-streams/src/test/java/com/amigoscode/examples/UnderstandingStreams.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/InsertAndUpdateArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/InsertAndUpdateArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/LargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/LargestElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/LeftRotateArrayByDPlaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/LeftRotateArrayByDPlaces.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/LeftRotateArrayByOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/LeftRotateArrayByOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/MoveZeroesToEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/MoveZeroesToEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/RemoveDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/ReverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/SecondLargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/SecondLargestElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/SortedArrayOrNot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/arrays/easy/findImmediateSmallerThanX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/findImmediateSmallerThanX.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/org/geeksforgeeks/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/geeksforgeeks/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/geeksforgeeks/arrays/easy/SortedArrayOrNot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/geeksforgeeks/arrays/easy/SortedArrayOrNot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/geeksforgeeks/arrays/easy/InsertAndUpdateArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/geeksforgeeks/arrays/easy/LargestElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/geeksforgeeks/arrays/easy/LeftRotateArrayByDPlaces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/geeksforgeeks/arrays/easy/LeftRotateArrayByOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/geeksforgeeks/arrays/easy/MoveZeroesToEnd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/geeksforgeeks/arrays/easy/Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/geeksforgeeks/arrays/easy/RemoveDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/geeksforgeeks/arrays/easy/ReverseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/geeksforgeeks/arrays/easy/SecondLargestElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/geeksforgeeks/arrays/easy/SortedArrayOrNot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/geeksforgeeks/arrays/easy/findImmediateSmallerThanX.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,20 +89,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Practice">
-    <configuration name="EmployeeTestt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EmployeeTestt" />
-      <module name="GeeksForGeeks" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practicce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.geeksforgeeks.arrays.easy.Practicce" />
+  <component name="RunManager" selected="Application.TowerOfHanoi">
+    <configuration name="CountOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.geeksforgeeks.easy.recursion.CountOfDigits" />
       <module name="GeeksForGeeks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.geeksforgeeks.arrays.easy.*" />
+          <option name="PATTERN" value="org.geeksforgeeks.easy.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +103,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.geeksforgeeks.arrays.easy.Practice" />
+    <configuration name="GenerateSubsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.geeksforgeeks.easy.recursion.GenerateSubsets" />
       <module name="GeeksForGeeks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.geeksforgeeks.arrays.easy.*" />
+          <option name="PATTERN" value="org.geeksforgeeks.easy.recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TowerOfHanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.geeksforgeeks.easy.recursion.TowerOfHanoi" />
+      <module name="GeeksForGeeks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.geeksforgeeks.easy.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,18 +142,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTest.incrementSalBy1000" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="org.geeksforgeeks.Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.geeksforgeeks.Practice" />
       <module name="GeeksForGeeks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.stackify.*" />
+          <option name="PATTERN" value="org.geeksforgeeks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.stackify" />
-      <option name="MAIN_CLASS_NAME" value="org.stackify.EmployeeTest" />
-      <option name="METHOD_NAME" value="incrementSalBy1000" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -188,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.TowerOfHanoi" />
+        <item itemvalue="Application.org.geeksforgeeks.Practice" />
+        <item itemvalue="Application.CountOfDigits" />
+        <item itemvalue="Application.GenerateSubsets" />
         <item itemvalue="Application.org.geeksforgeeks.Main" />
-        <item itemvalue="Application.Practicce" />
-        <item itemvalue="JUnit.EmployeeTest.incrementSalBy1000" />
-        <item itemvalue="Application.EmployeeTestt" />
       </list>
     </recent_temporary>
   </component>
@@ -284,6 +295,36 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/arrays/Practice.java</url>
           <line>5</line>
           <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/recursion/Palindrome.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/recursion/Palindrome.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/recursion/SumOfDigits.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/recursion/RopeCutting.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/recursion/GenerateSubsets.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/geeksforgeeks/easy/recursion/TowerOfHanoi.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="77" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
